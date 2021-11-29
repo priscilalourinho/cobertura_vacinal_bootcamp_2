@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/priscilalourinho/)
+
 # **Super Desafio Módulo II - BootCamp Alura Data Science III**  💻 🎲
 
 
