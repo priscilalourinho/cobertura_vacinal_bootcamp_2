@@ -76,7 +76,7 @@
 # * **Sobre a Autora** 👩
 
 
-Sou Priscila Lourinho, tenho 31 anos e construi toda a minha carreira profissional em gestão de operações (distribuição de combustíveis, lubrificantes industriais e, atualmente, sou a coordenadora das oprações no Zé Delivery 💛
+Sou Priscila Lourinho, tenho 31 anos e construi toda a minha carreira profissional em gestão de operações (distribuição de combustíveis, lubrificantes industriais e, atualmente, sou a coordenadora das operações no Zé Delivery 💛
 
 Nessa trajetória, que foi iniciada em 2013, sempre precisei lidar com muitos dados em níveis de granularidade diferentes.
 
